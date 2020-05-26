@@ -1,0 +1,16 @@
+Nelson, Christchurch
+Nelson, Springs Junction, 42.60
+Springs Junction, Christchurch, 0.00
+Nelson, Richmond, 3
+Richmond, Murchison, 13.30
+Murchison, Culverden, 14.40
+Culverden, hurunui, 1
+hurunui, Amberley, 5
+Amberley,kaiapoi,1
+   kaiapoi,     christchurch,     4.90
+Nelson, Rai Valley, 8.00
+Rai Valley, Blenheim, 7
+Blenheim, Kaikoura, 10
+Kaikoura, Cheviot, 11
+Cheviot, christchurch, 6.61
+Nelson, christchurch, 42.61
