@@ -5,7 +5,8 @@ Darcy Knox 7712753
 
 Written in java and python3
 
-To compile, use the command:
-
+Firstly, compile java code using the command:
+javac BusRoutes.java Dijkstra.java Graph.java Node.java
 
 To run/execute:
+python3 Draw.py filename.txt

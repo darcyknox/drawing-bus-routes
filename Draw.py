@@ -7,6 +7,9 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import warnings
 
+# Uses NetworkX to create a graphical representation of the shortest path
+# between two locations - given by the output of BusRoutes.java
+
 # Ignore redundant warning
 warnings.filterwarnings("ignore", category=UserWarning)
 
