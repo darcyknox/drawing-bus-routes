@@ -40,7 +40,7 @@ public class Node {
     }
 
     public Double getDistance() {
-        distance = Math.round(distance * 1000) / 1000.000;
+        distance = Math.round(distance * 100) / 100.00;
         return distance;
     }
 

@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class Dijkstra {
 
-    public static double bias = 0.001;
+    public static double bias = 0.01;
 
     public static Graph calculateShortestPathFromSource(Graph graph, Node source) {
 
